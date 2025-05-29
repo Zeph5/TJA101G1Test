@@ -1,6 +1,7 @@
 package com.tigertravel.member;
 
 public class MemberVO {
+
 	private Integer	ovo;
 	private String member_name;
 	
